@@ -1,0 +1,17 @@
+{
+  "background_color": "#B3E9DF",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "lang": "id",
+  "name": "expo-sdk50",
+  "short_name": "sdk50",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    }
+  ]
+}
